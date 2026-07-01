@@ -128,7 +128,7 @@ Tecnologias e competências relacionadas:
 * integração de disciplinas;
 * resolução de problemas de negócio.
 
-A versão pública do certificado possui informações acadêmicas e dados pessoais sensíveis ocultados.
+A versão pública do certificado possui informações acadêmicas e dados pessoais sensíveis protegidos.
 
 <br>
 
