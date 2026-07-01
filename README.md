@@ -225,20 +225,6 @@ Atualmente estou trabalhando para:
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DEV-LFS\&show_icons=true\&hide_border=true\&theme=github_dark\&locale=pt-br)
-
-<br>
-
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-LFS\&layout=compact\&hide_border=true\&theme=github_dark\&locale=pt-br)
-
-</div>
-
----
-
 ## 📬 Contato profissional
 
 * Portfólio: https://portfolio-dev-lfs.vercel.app/
@@ -272,4 +258,3 @@ Atualmente estou trabalhando para:
 ![Visualizações do perfil](https://komarev.com/ghpvc/?username=DEV-LFS\&style=for-the-badge\&color=0A66C2\&label=VISUALIZAÇÕES)
 
 </div>
-
