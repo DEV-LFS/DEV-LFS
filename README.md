@@ -126,6 +126,7 @@ Tecnologias e competências relacionadas:
 * gestão ágil;
 * integração de disciplinas;
 * resolução de problemas de negócio.
+* automação.
 
 A versão pública do certificado possui informações acadêmicas e dados pessoais sensíveis protegidos.
 
