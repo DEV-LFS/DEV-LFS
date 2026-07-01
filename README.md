@@ -123,7 +123,7 @@ Tecnologias e competências relacionadas:
 * UX/UI;
 * back-end;
 * banco de dados;
-* automação;
+* automa&ccedil;&atilde;o;
 * gestão ágil;
 * integração de disciplinas;
 * resolução de problemas de negócio.
