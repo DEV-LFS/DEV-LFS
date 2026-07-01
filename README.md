@@ -4,13 +4,15 @@
 
 ### Estudante de Ciência da Computação | Back-end | Engenharia de Software
 
-Construindo minha trajetória profissional em tecnologia por meio de projetos práticos, documentação técnica, testes automatizados e evolução contínua.
+Construindo minha trajetória profissional em tecnologia por meio de projetos práticos, documentação técnica, testes automatizados, certificações e evolução contínua.
 
 <br>
 
 [![Portfólio](https://img.shields.io/static/v1?message=Portfólio\&logo=vercel\&label=\&color=000000\&logoColor=white\&style=for-the-badge)](https://portfolio-dev-lfs.vercel.app/)
 [![GitHub](https://img.shields.io/static/v1?message=GitHub\&logo=github\&label=\&color=181717\&logoColor=white\&style=for-the-badge)](https://github.com/DEV-LFS)
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn\&logo=linkedin\&label=\&color=0A66C2\&logoColor=white\&style=for-the-badge)](https://www.linkedin.com/in/luis-felipe-sebastiao/)
+[![Instagram](https://img.shields.io/static/v1?message=Instagram\&logo=instagram\&label=\&color=E4405F\&logoColor=white\&style=for-the-badge)](https://www.instagram.com/lf.devweb/)
+[![E-mail](https://img.shields.io/static/v1?message=E-mail\&logo=gmail\&label=\&color=D14836\&logoColor=white\&style=for-the-badge)](mailto:luisfelipesebastiao161@gmail.com?subject=Contato%20para%20projetos%20ou%20colabora%C3%A7%C3%B5es&body=Ol%C3%A1%2C%20tudo%20bem%3F%0A%0AGostaria%20de%20entrar%20em%20contato%20com%20voc%C3%AA%20para%20discutir%20poss%C3%ADveis%20projetos%20ou%20colabora%C3%A7%C3%B5es.)
 
 </div>
 
@@ -22,13 +24,15 @@ Sou estudante de **Ciência da Computação na Faculdade Impacta**, em São Paul
 
 Minha formação está sendo direcionada para desenvolvimento back-end, banco de dados, APIs REST, testes automatizados e Engenharia de Software.
 
-Meu objetivo atual é transformar o aprendizado acadêmico em projetos funcionais, documentados, testados e disponíveis publicamente. No longo prazo, pretendo aprofundar meus conhecimentos em Cloud, Machine Learning, Inteligência Artificial e desenvolvimento de software.
+Meu objetivo atual é transformar o aprendizado acadêmico e complementar em projetos funcionais, documentados, testados e disponíveis publicamente.
+
+No longo prazo, pretendo aprofundar meus conhecimentos em Engenharia de Software, Cloud, Machine Learning, Inteligência Artificial e desenvolvimento de software.
 
 ---
 
 ## 🌐 Portfólio profissional
 
-Desenvolvi e publiquei meu portfólio profissional para apresentar minha trajetória acadêmica, conhecimentos técnicos, projetos e certificações.
+Desenvolvi e publiquei meu portfólio profissional para apresentar minha trajetória acadêmica, conhecimentos técnicos, projetos, certificações e evolução profissional.
 
 O site possui:
 
@@ -39,7 +43,8 @@ O site possui:
 * apresentação de projetos;
 * seção de formação acadêmica;
 * seção de certificações com filtros;
-* integração com GitHub e LinkedIn;
+* integração com GitHub, LinkedIn, Instagram e e-mail;
+* botão de e-mail com assunto e mensagem pré-preenchidos;
 * recursos básicos de acessibilidade;
 * publicação automática pela Vercel.
 
@@ -52,14 +57,14 @@ O site possui:
 ## 🎯 Foco atual
 
 * Desenvolvimento back-end com Python
-* Lógica de programação e algoritmos
 * APIs REST com FastAPI
 * Banco de dados e SQL
 * Versionamento com Git e GitHub
 * Testes automatizados com Pytest
 * Documentação com Swagger e OpenAPI
 * Fundamentos de Engenharia de Software
-* Desenvolvimento e documentação de projetos para portfólio
+* Organização de projetos para portfólio
+* Cursos, formações e projetos práticos da DIO
 
 ---
 
@@ -86,19 +91,15 @@ Principais recursos:
 
 ---
 
-## 📂 Outros projetos
+## 📂 Projetos e portfólio
 
 ### Portfólio profissional
 
-Site desenvolvido com HTML, CSS e JavaScript para apresentar minha trajetória, projetos, tecnologias e certificações.
+Site desenvolvido com HTML, CSS e JavaScript para apresentar minha trajetória, projetos, tecnologias, certificações e formas de contato profissional.
+
+<br>
 
 [![Repositório do portfólio](https://img.shields.io/static/v1?message=Repositório+do+Portfólio\&logo=github\&label=\&color=181717\&logoColor=white\&style=for-the-badge)](https://github.com/DEV-LFS/portfolio-dev-lfs)
-
-### Primeiros Programas em Python
-
-Repositório dedicado aos exercícios, algoritmos e pequenos sistemas desenvolvidos durante meus estudos de programação.
-
-[![Acessar repositório](https://img.shields.io/static/v1?message=Primeiros+Programas\&logo=github\&label=\&color=181717\&logoColor=white\&style=for-the-badge)](https://github.com/DEV-LFS/primeiro-programa)
 
 ---
 
@@ -209,7 +210,8 @@ Atualmente estou trabalhando para:
 * estudar arquitetura e organização de aplicações;
 * ampliar meus conhecimentos em testes automatizados;
 * expandir meu portfólio técnico;
-* adicionar novos projetos e certificações;
+* criar repositórios específicos para cursos e projetos da DIO;
+* adicionar novos certificados e formações ao portfólio;
 * conquistar minha primeira oportunidade profissional em TI.
 
 ---
@@ -237,6 +239,16 @@ Atualmente estou trabalhando para:
 
 ---
 
+## 📬 Contato profissional
+
+* Portfólio: https://portfolio-dev-lfs.vercel.app/
+* GitHub: https://github.com/DEV-LFS
+* LinkedIn: https://www.linkedin.com/in/luis-felipe-sebastiao/
+* Instagram profissional: https://www.instagram.com/lf.devweb/
+* E-mail profissional: [luisfelipesebastiao161@gmail.com](mailto:luisfelipesebastiao161@gmail.com?subject=Contato%20para%20projetos%20ou%20colabora%C3%A7%C3%B5es&body=Ol%C3%A1%2C%20tudo%20bem%3F%0A%0AGostaria%20de%20entrar%20em%20contato%20com%20voc%C3%AA%20para%20discutir%20poss%C3%ADveis%20projetos%20ou%20colabora%C3%A7%C3%B5es.)
+
+---
+
 ## 💡 Princípio profissional
 
 > Aprender tecnologia não é apenas compreender conceitos. É transformar conhecimento em sistemas funcionais, verificáveis e capazes de resolver problemas reais.
@@ -251,6 +263,8 @@ Atualmente estou trabalhando para:
 
 [![Portfólio](https://img.shields.io/static/v1?message=Portfólio\&logo=vercel\&label=\&color=000000\&logoColor=white\&style=for-the-badge)](https://portfolio-dev-lfs.vercel.app/)
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn\&logo=linkedin\&label=\&color=0A66C2\&logoColor=white\&style=for-the-badge)](https://www.linkedin.com/in/luis-felipe-sebastiao/)
+[![Instagram](https://img.shields.io/static/v1?message=Instagram\&logo=instagram\&label=\&color=E4405F\&logoColor=white\&style=for-the-badge)](https://www.instagram.com/lf.devweb/)
+[![E-mail](https://img.shields.io/static/v1?message=E-mail\&logo=gmail\&label=\&color=D14836\&logoColor=white\&style=for-the-badge)](mailto:luisfelipesebastiao161@gmail.com?subject=Contato%20para%20projetos%20ou%20colabora%C3%A7%C3%B5es&body=Ol%C3%A1%2C%20tudo%20bem%3F%0A%0AGostaria%20de%20entrar%20em%20contato%20com%20voc%C3%AA%20para%20discutir%20poss%C3%ADveis%20projetos%20ou%20colabora%C3%A7%C3%B5es.)
 
 <br>
 <br>
@@ -258,3 +272,4 @@ Atualmente estou trabalhando para:
 ![Visualizações do perfil](https://komarev.com/ghpvc/?username=DEV-LFS\&style=for-the-badge\&color=0A66C2\&label=VISUALIZAÇÕES)
 
 </div>
+
