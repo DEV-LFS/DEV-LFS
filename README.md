@@ -2,11 +2,11 @@
 
 # Olá, eu sou o Luis Felipe 👨‍💻
 
-### Estudante de Ciência da Computação | Back-end | Engenharia de Software
+### Estudante de Ciência da Computação | Desenvolvimento Back-end | Engenharia de Software
 
-Estou construindo minha carreira em tecnologia com foco em desenvolvimento back-end, banco de dados e Engenharia de Software.
+Estou construindo minha carreira em tecnologia com foco em programação, banco de dados, desenvolvimento back-end e Engenharia de Software.
 
-Minha prioridade é transformar o que estudo em projetos funcionais, bem organizados, documentados e publicados no GitHub.
+Uso este GitHub para registrar minha evolução, publicar projetos práticos e transformar o que estudo em aplicações funcionais, organizadas e documentadas.
 
 <br>
 
@@ -21,29 +21,42 @@ Minha prioridade é transformar o que estudo em projetos funcionais, bem organiz
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Ciência da Computação na Faculdade Impacta**, em São Paulo.
+Sou estudante de **Ciência da Computação na Faculdade Impacta**, em São Paulo, e atualmente estou no segundo semestre da graduação.
 
-Tenho direcionado meus estudos para **programação, desenvolvimento back-end, SQL, modelagem de banco de dados, APIs REST, testes automatizados e Engenharia de Software**.
+Minha formação está sendo construída com uma base em:
 
-Ainda estou construindo minha experiência profissional na área, por isso uso meus projetos como uma forma de aplicar os conhecimentos da faculdade, desenvolver novas habilidades e registrar minha evolução de maneira prática.
+* programação e algoritmos;
+* SQL e banco de dados;
+* modelagem de dados;
+* desenvolvimento de software;
+* Engenharia de Software;
+* automação e integração de sistemas;
+* organização e documentação de projetos.
 
-Não quero apenas acumular tecnologias, cursos ou certificados. Quero entender como cada ferramenta funciona, saber quando utilizá-la e conseguir transformar conhecimento em soluções reais.
+Tenho direcionado meus estudos principalmente para **desenvolvimento back-end e Engenharia de Software**.
 
-Meu objetivo atual é conquistar minha primeira oportunidade profissional em TI e continuar evoluindo até me tornar um profissional sólido em Engenharia de Software.
+Ainda estou no início da minha trajetória profissional em tecnologia. Por isso, meu foco não é apenas listar cursos ou ferramentas, mas mostrar o que consigo desenvolver com o conhecimento que estou adquirindo.
+
+Cada projeto publicado aqui representa uma etapa real da minha evolução: aprender, construir, testar, documentar, identificar erros e melhorar.
 
 ---
 
-## 🎯 No que estou focado atualmente
+## 🎯 Meu foco atual
 
-* Lógica de programação e algoritmos;
-* Python para desenvolvimento back-end;
-* criação de APIs REST com FastAPI;
-* SQL e modelagem de banco de dados;
-* testes automatizados com Pytest;
-* documentação de APIs com Swagger e OpenAPI;
-* Git e GitHub para versionamento de código;
-* organização e documentação de projetos;
-* fundamentos e práticas de Engenharia de Software.
+Hoje, minhas principais prioridades técnicas são:
+
+* melhorar minha lógica de programação;
+* aprofundar meus conhecimentos em Python;
+* evoluir em SQL e modelagem de banco de dados;
+* desenvolver APIs REST;
+* criar projetos back-end mais completos;
+* aplicar testes automatizados;
+* melhorar a organização e a arquitetura das aplicações;
+* utilizar Git e GitHub de forma profissional;
+* produzir documentação clara para cada projeto;
+* fortalecer minha base em Engenharia de Software.
+
+Minha prioridade é construir uma base sólida antes de avançar para áreas mais especializadas.
 
 ---
 
@@ -53,46 +66,51 @@ Meu objetivo atual é conquistar minha primeira oportunidade profissional em TI 
 
 API REST desenvolvida para gerenciar chamados de suporte técnico.
 
-O projeto foi criado com **Python, FastAPI e SQLite** e representa uma aplicação prática dos conhecimentos que venho desenvolvendo em back-end, banco de dados, validação de dados, testes e documentação.
+O projeto foi criado com **Python, FastAPI e SQLite** para aplicar, na prática, conhecimentos de desenvolvimento back-end, persistência de dados, validação, tratamento de erros, testes e documentação de APIs.
 
-#### Principais funcionalidades
+#### Funcionalidades
 
 * cadastro de chamados;
 * listagem de chamados;
-* consulta de chamado por identificador;
+* consulta por identificador;
 * atualização de informações;
 * exclusão de chamados;
 * validação de dados com Pydantic;
 * persistência em banco de dados SQLite;
-* tratamento de erros e respostas HTTP;
+* tratamento de erros;
+* respostas utilizando códigos HTTP;
 * documentação automática com Swagger e OpenAPI;
 * testes automatizados com Pytest.
 
+#### O que esse projeto representa
+
+Mais do que um CRUD, esse projeto representa minha evolução na construção de uma aplicação back-end completa, desde a definição das rotas até a documentação e os testes.
+
 <br>
 
-[![Acessar projeto](https://img.shields.io/static/v1?message=Sistema+de+Chamados+de+TI\&logo=github\&label=\&color=181717\&logoColor=white\&style=for-the-badge)](https://github.com/DEV-LFS/sistema-chamados-ti)
+[![Acessar projeto](https://img.shields.io/static/v1?message=Acessar+Projeto\&logo=github\&label=\&color=181717\&logoColor=white\&style=for-the-badge)](https://github.com/DEV-LFS/sistema-chamados-ti)
 
 ---
 
-## 📂 Outros projetos
+## 🌐 Portfólio profissional
 
-### Portfólio profissional
-
-Desenvolvi meu portfólio para reunir, em um único lugar, minha trajetória acadêmica, projetos, tecnologias, certificações e formas de contato.
+Desenvolvi meu portfólio para reunir minha trajetória acadêmica, projetos, tecnologias, certificações e formas de contato em um único lugar.
 
 O site foi construído com **HTML, CSS e JavaScript** e publicado na **Vercel**.
 
-Entre os recursos implementados estão:
+#### Recursos implementados
 
 * layout responsivo;
-* menu adaptado para dispositivos móveis;
+* adaptação para celular, tablet e computador;
+* menu mobile;
 * navegação por seções;
 * animações e interações com JavaScript;
-* apresentação dos projetos;
+* apresentação de projetos;
 * seção de formação acadêmica;
 * área de certificações;
 * integração com GitHub, LinkedIn, Instagram e e-mail;
-* recursos básicos de acessibilidade.
+* recursos básicos de acessibilidade;
+* publicação e atualização pela Vercel.
 
 <br>
 
@@ -105,27 +123,32 @@ Entre os recursos implementados estão:
 
 ### SLFood — Sistema de Delivery para o Restaurante Sabor Local
 
-Projeto integrador desenvolvido durante o curso de Ciência da Computação na Faculdade Impacta, entre fevereiro e junho de 2026.
+Projeto integrador desenvolvido durante o primeiro semestre de Ciência da Computação na Faculdade Impacta, entre fevereiro e junho de 2026.
 
-A proposta foi criar uma solução de delivery utilizando ferramentas No Code e Low Code, integrando diferentes áreas do desenvolvimento de software.
+A proposta foi criar uma solução de delivery utilizando ferramentas No Code e Low Code, conectando diferentes partes de um sistema e aplicando conhecimentos das disciplinas do semestre.
 
-Durante o projeto, tive contato com:
+#### Tecnologias e ferramentas utilizadas
 
 * FlutterFlow;
 * Xano;
 * Figma;
 * n8n;
-* Trello;
+* Trello.
+
+#### Competências trabalhadas
+
+* estruturação de interfaces;
 * UX/UI;
 * banco de dados;
 * back-end;
 * automação de processos;
 * integração entre sistemas;
 * organização de tarefas;
+* gestão ágil;
 * trabalho em equipe;
-* resolução de um problema de negócio.
+* resolução de problemas de negócio.
 
-O projeto também resultou em um certificado acadêmico emitido pela Faculdade Impacta.
+O projeto resultou em uma certificação acadêmica emitida pela Faculdade Impacta.
 
 <br>
 
@@ -135,7 +158,7 @@ O projeto também resultou em um certificado acadêmico emitido pela Faculdade I
 
 ## 🛠️ Tecnologias e ferramentas
 
-### Back-end
+### Programação e back-end
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
@@ -160,14 +183,14 @@ O projeto também resultou em um certificado acadêmico emitido pela Faculdade I
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 
-### Versionamento e ambiente de desenvolvimento
+### Versionamento e desenvolvimento
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white)
 
-### Ferramentas utilizadas em projeto acadêmico
+### No Code, Low Code e organização
 
 ![FlutterFlow](https://img.shields.io/badge/FlutterFlow-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
@@ -177,51 +200,84 @@ O projeto também resultou em um certificado acadêmico emitido pela Faculdade I
 
 ---
 
-## 📈 Minha evolução técnica
+## 📚 Formação acadêmica atual
 
-```text
-Lógica de programação e algoritmos
-              ↓
-        Python e SQL
-              ↓
- Modelagem de banco de dados
-              ↓
-APIs REST e desenvolvimento back-end
-              ↓
- Testes, documentação e organização
-              ↓
-     Engenharia de Software
-              ↓
-Cloud, Inteligência Artificial e Machine Learning
-```
+No segundo semestre da graduação, estou estudando disciplinas diretamente ligadas à base que quero construir para minha carreira:
 
-As últimas áreas representam objetivos futuros. Minha prioridade atual é construir uma base forte em programação, banco de dados, back-end e Engenharia de Software antes de avançar para especializações.
+* **Programming & Algorithms**;
+* **SQL Fundamentals**;
+* **Database Design**;
+* **Software Engineering**;
+* **Innovation Lab: Advanced No/Low Code**.
+
+Essas disciplinas fortalecem minha evolução em programação, banco de dados, desenvolvimento de sistemas e Engenharia de Software.
 
 ---
 
-## 📚 Próximos passos
+## 📈 Minha direção técnica
 
-Atualmente, estou trabalhando para:
+```text
+Lógica de programação e algoritmos
+                ↓
+           Python e SQL
+                ↓
+   Modelagem de banco de dados
+                ↓
+  APIs REST e desenvolvimento back-end
+                ↓
+Testes, documentação e boas práticas
+                ↓
+       Engenharia de Software
+                ↓
+ Cloud, Inteligência Artificial e Machine Learning
+```
 
-* aprofundar meus conhecimentos em Python;
-* melhorar minha lógica de programação;
-* evoluir em SQL e modelagem de banco de dados;
-* desenvolver novos projetos back-end;
-* estudar arquitetura e organização de aplicações;
-* ampliar o uso de testes automatizados;
-* melhorar a documentação dos meus projetos;
-* manter meu GitHub e meu portfólio atualizados;
-* conquistar minha primeira oportunidade profissional em TI.
+Meu foco imediato está nas etapas de base: programação, banco de dados, back-end e Engenharia de Software.
+
+Inteligência Artificial e Machine Learning fazem parte dos meus objetivos de especialização, mas não substituem a necessidade de dominar os fundamentos primeiro.
 
 ---
 
 ## 🧭 Objetivos profissionais
 
-1. Entrar profissionalmente na área de Tecnologia da Informação.
-2. Construir experiência prática em desenvolvimento de software.
-3. Consolidar minha base em back-end, banco de dados e Engenharia de Software.
-4. Aprofundar meus conhecimentos em Cloud, Inteligência Artificial e Machine Learning.
-5. Construir uma carreira internacional em tecnologia.
+### Curto prazo
+
+* conquistar minha primeira oportunidade profissional em TI;
+* ampliar meu portfólio com projetos relevantes;
+* desenvolver mais experiência prática;
+* melhorar minha base em programação, SQL e back-end;
+* evoluir em Git, testes e documentação.
+
+### Médio prazo
+
+* trabalhar com desenvolvimento de software;
+* consolidar experiência em back-end;
+* aprofundar meus conhecimentos em Engenharia de Software;
+* estudar arquitetura de sistemas e Cloud;
+* construir projetos mais completos e próximos de aplicações reais.
+
+### Longo prazo
+
+* especializar-me em Engenharia de Software;
+* avançar para Inteligência Artificial e Machine Learning;
+* construir uma carreira internacional em tecnologia;
+* estar preparado técnica e profissionalmente para trabalhar no mercado europeu.
+
+---
+
+## 📌 Como organizo minha evolução
+
+Minha estratégia é simples:
+
+1. estudar os fundamentos;
+2. aplicar o conteúdo em um projeto;
+3. versionar o desenvolvimento no GitHub;
+4. escrever uma documentação clara;
+5. publicar o resultado no portfólio;
+6. analisar o que precisa ser melhorado;
+7. partir para um projeto mais completo.
+
+Não quero que meu GitHub seja apenas um lugar para armazenar códigos. Quero que ele mostre minha evolução de forma organizada e verificável.
 
 ---
 
@@ -235,9 +291,9 @@ Atualmente, estou trabalhando para:
 
 ---
 
-## 💡 Como penso sobre minha evolução
+## 💡 Minha forma de pensar
 
-> Prefiro mostrar o que consigo construir do que apenas listar o que estou estudando. Cada projeto é uma forma de aplicar conhecimento, identificar o que ainda preciso melhorar e evoluir de maneira consistente.
+> Não quero apenas dizer que estou estudando tecnologia. Quero mostrar minha evolução por meio de projetos, código, documentação e resultados que possam ser analisados.
 
 ---
 
