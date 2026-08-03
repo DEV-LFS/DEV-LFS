@@ -1,18 +1,19 @@
 <div align="center">
 
-# Olá, eu sou Luis Felipe 👨‍💻
+# Olá, eu sou o Luis Felipe 👨‍💻
 
 ### Estudante de Ciência da Computação | Back-end | Engenharia de Software
 
-Construindo minha trajetória profissional em tecnologia por meio de projetos práticos, documentação técnica, testes automatizados, certificações e evolução contínua.
+Estou construindo minha carreira em tecnologia com foco em desenvolvimento back-end, banco de dados e Engenharia de Software.
+
+Minha prioridade é transformar o que estudo em projetos funcionais, bem organizados, documentados e publicados no GitHub.
 
 <br>
 
 [![Portfólio](https://img.shields.io/static/v1?message=Portfólio\&logo=vercel\&label=\&color=000000\&logoColor=white\&style=for-the-badge)](https://portfolio-dev-lfs.vercel.app/)
-[![GitHub](https://img.shields.io/static/v1?message=GitHub\&logo=github\&label=\&color=181717\&logoColor=white\&style=for-the-badge)](https://github.com/DEV-LFS)
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn\&logo=linkedin\&label=\&color=0A66C2\&logoColor=white\&style=for-the-badge)](https://www.linkedin.com/in/luis-felipe-sebastiao/)
 [![Instagram](https://img.shields.io/static/v1?message=Instagram\&logo=instagram\&label=\&color=E4405F\&logoColor=white\&style=for-the-badge)](https://www.instagram.com/lf.devweb/)
-[![E-mail](https://img.shields.io/static/v1?message=E-mail\&logo=gmail\&label=\&color=D14836\&logoColor=white\&style=for-the-badge)](mailto:luisfelipesebastiao161@gmail.com?subject=Contato%20para%20projetos%20ou%20colabora%C3%A7%C3%B5es&body=Ol%C3%A1%2C%20tudo%20bem%3F%0A%0AGostaria%20de%20entrar%20em%20contato%20com%20voc%C3%AA%20para%20discutir%20poss%C3%ADveis%20projetos%20ou%20colabora%C3%A7%C3%B5es.)
+[![E-mail](https://img.shields.io/static/v1?message=E-mail\&logo=gmail\&label=\&color=D14836\&logoColor=white\&style=for-the-badge)](mailto:luisfelipesebastiao161@gmail.com)
 
 </div>
 
@@ -22,49 +23,27 @@ Construindo minha trajetória profissional em tecnologia por meio de projetos pr
 
 Sou estudante de **Ciência da Computação na Faculdade Impacta**, em São Paulo.
 
-Minha formação está sendo direcionada para desenvolvimento back-end, banco de dados, APIs REST, testes automatizados e Engenharia de Software.
+Tenho direcionado meus estudos para **programação, desenvolvimento back-end, SQL, modelagem de banco de dados, APIs REST, testes automatizados e Engenharia de Software**.
 
-Meu objetivo atual é transformar o aprendizado acadêmico e complementar em projetos funcionais, documentados, testados e disponíveis publicamente.
+Ainda estou construindo minha experiência profissional na área, por isso uso meus projetos como uma forma de aplicar os conhecimentos da faculdade, desenvolver novas habilidades e registrar minha evolução de maneira prática.
 
-No longo prazo, pretendo aprofundar meus conhecimentos em Engenharia de Software, Cloud, Machine Learning, Inteligência Artificial e desenvolvimento de software.
+Não quero apenas acumular tecnologias, cursos ou certificados. Quero entender como cada ferramenta funciona, saber quando utilizá-la e conseguir transformar conhecimento em soluções reais.
 
----
-
-## 🌐 Portfólio profissional
-
-Desenvolvi e publiquei meu portfólio profissional para apresentar minha trajetória acadêmica, conhecimentos técnicos, projetos, certificações e evolução profissional.
-
-O site possui:
-
-* layout responsivo;
-* navegação por seções;
-* menu mobile;
-* animações e interações em JavaScript;
-* apresentação de projetos;
-* seção de formação acadêmica;
-* seção de certificações com filtros;
-* integração com GitHub, LinkedIn, Instagram e e-mail;
-* botão de e-mail com assunto e mensagem pré-preenchidos;
-* recursos básicos de acessibilidade;
-* publicação automática pela Vercel.
-
-<br>
-
-[![Acessar portfólio](https://img.shields.io/static/v1?message=Acessar+Portfólio\&logo=vercel\&label=\&color=000000\&logoColor=white\&style=for-the-badge)](https://portfolio-dev-lfs.vercel.app/)
+Meu objetivo atual é conquistar minha primeira oportunidade profissional em TI e continuar evoluindo até me tornar um profissional sólido em Engenharia de Software.
 
 ---
 
-## 🎯 Foco atual
+## 🎯 No que estou focado atualmente
 
-* Desenvolvimento back-end com Python
-* APIs REST com FastAPI
-* Banco de dados e SQL
-* Versionamento com Git e GitHub
-* Testes automatizados com Pytest
-* Documentação com Swagger e OpenAPI
-* Fundamentos de Engenharia de Software
-* Organização de projetos para portfólio
-* Cursos, formações e projetos práticos da DIO
+* Lógica de programação e algoritmos;
+* Python para desenvolvimento back-end;
+* criação de APIs REST com FastAPI;
+* SQL e modelagem de banco de dados;
+* testes automatizados com Pytest;
+* documentação de APIs com Swagger e OpenAPI;
+* Git e GitHub para versionamento de código;
+* organização e documentação de projetos;
+* fundamentos e práticas de Engenharia de Software.
 
 ---
 
@@ -72,18 +51,22 @@ O site possui:
 
 ### Sistema de Chamados de TI
 
-API REST para gerenciamento de chamados técnicos, desenvolvida com Python, FastAPI e SQLite.
+API REST desenvolvida para gerenciar chamados de suporte técnico.
 
-Principais recursos:
+O projeto foi criado com **Python, FastAPI e SQLite** e representa uma aplicação prática dos conhecimentos que venho desenvolvendo em back-end, banco de dados, validação de dados, testes e documentação.
 
-* CRUD completo;
-* persistência em banco de dados SQLite;
+#### Principais funcionalidades
+
+* cadastro de chamados;
+* listagem de chamados;
+* consulta de chamado por identificador;
+* atualização de informações;
+* exclusão de chamados;
 * validação de dados com Pydantic;
+* persistência em banco de dados SQLite;
+* tratamento de erros e respostas HTTP;
 * documentação automática com Swagger e OpenAPI;
-* tratamento de erros e códigos HTTP;
-* testes automatizados com Pytest;
-* histórico de desenvolvimento versionado com Git;
-* README técnico com instruções de instalação e execução.
+* testes automatizados com Pytest.
 
 <br>
 
@@ -91,29 +74,42 @@ Principais recursos:
 
 ---
 
-## 📂 Projetos e portfólio
+## 📂 Outros projetos
 
 ### Portfólio profissional
 
-Site desenvolvido com HTML, CSS e JavaScript para apresentar minha trajetória, projetos, tecnologias, certificações e formas de contato profissional.
+Desenvolvi meu portfólio para reunir, em um único lugar, minha trajetória acadêmica, projetos, tecnologias, certificações e formas de contato.
+
+O site foi construído com **HTML, CSS e JavaScript** e publicado na **Vercel**.
+
+Entre os recursos implementados estão:
+
+* layout responsivo;
+* menu adaptado para dispositivos móveis;
+* navegação por seções;
+* animações e interações com JavaScript;
+* apresentação dos projetos;
+* seção de formação acadêmica;
+* área de certificações;
+* integração com GitHub, LinkedIn, Instagram e e-mail;
+* recursos básicos de acessibilidade.
 
 <br>
 
-[![Repositório do portfólio](https://img.shields.io/static/v1?message=Repositório+do+Portfólio\&logo=github\&label=\&color=181717\&logoColor=white\&style=for-the-badge)](https://github.com/DEV-LFS/portfolio-dev-lfs)
+[![Acessar portfólio](https://img.shields.io/static/v1?message=Acessar+Portfólio\&logo=vercel\&label=\&color=000000\&logoColor=white\&style=for-the-badge)](https://portfolio-dev-lfs.vercel.app/)
+[![Ver repositório](https://img.shields.io/static/v1?message=Ver+Repositório\&logo=github\&label=\&color=181717\&logoColor=white\&style=for-the-badge)](https://github.com/DEV-LFS/portfolio-dev-lfs)
 
 ---
 
-## 🎓 Certificação acadêmica
+## 🎓 Projeto acadêmico
 
-### Projeto Integrador No Code/Low Code — SLFood
+### SLFood — Sistema de Delivery para o Restaurante Sabor Local
 
-Certificado de participação emitido pela **Faculdade Impacta** pelo desenvolvimento do projeto:
+Projeto integrador desenvolvido durante o curso de Ciência da Computação na Faculdade Impacta, entre fevereiro e junho de 2026.
 
-**SLFood — Sistema de Delivery para o Restaurante Sabor Local**
+A proposta foi criar uma solução de delivery utilizando ferramentas No Code e Low Code, integrando diferentes áreas do desenvolvimento de software.
 
-O projeto foi realizado entre fevereiro e junho de 2026 como parte do curso de Ciência da Computação.
-
-Tecnologias e competências relacionadas:
+Durante o projeto, tive contato com:
 
 * FlutterFlow;
 * Xano;
@@ -121,14 +117,15 @@ Tecnologias e competências relacionadas:
 * n8n;
 * Trello;
 * UX/UI;
-* back-end;
 * banco de dados;
-* automação;
-* gestão ágil;
-* integração de disciplinas;
-* resolução de problemas de negócio.
+* back-end;
+* automação de processos;
+* integração entre sistemas;
+* organização de tarefas;
+* trabalho em equipe;
+* resolução de um problema de negócio.
 
-A versão pública do certificado possui informações acadêmicas e dados pessoais sensíveis protegidos.
+O projeto também resultou em um certificado acadêmico emitido pela Faculdade Impacta.
 
 <br>
 
@@ -147,10 +144,10 @@ A versão pública do certificado possui informações acadêmicas e dados pesso
 
 ### Banco de dados
 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
 
-### Qualidade e documentação
+### Testes e documentação
 
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge\&logo=pytest\&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
@@ -163,14 +160,14 @@ A versão pública do certificado possui informações acadêmicas e dados pesso
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 
-### Desenvolvimento e versionamento
+### Versionamento e ambiente de desenvolvimento
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white)
 
-### Tecnologias utilizadas em projeto acadêmico
+### Ferramentas utilizadas em projeto acadêmico
 
 ![FlutterFlow](https://img.shields.io/badge/FlutterFlow-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
@@ -180,77 +177,79 @@ A versão pública do certificado possui informações acadêmicas e dados pesso
 
 ---
 
-## 📈 Minha trajetória técnica
+## 📈 Minha evolução técnica
 
 ```text
-Fundamentos de programação
-        ↓
-Python e lógica computacional
-        ↓
-SQL e modelagem de banco de dados
-        ↓
+Lógica de programação e algoritmos
+              ↓
+        Python e SQL
+              ↓
+ Modelagem de banco de dados
+              ↓
 APIs REST e desenvolvimento back-end
-        ↓
-Testes e documentação
-        ↓
-Engenharia de Software
-        ↓
-Cloud, Machine Learning e Inteligência Artificial
+              ↓
+ Testes, documentação e organização
+              ↓
+     Engenharia de Software
+              ↓
+Cloud, Inteligência Artificial e Machine Learning
 ```
+
+As últimas áreas representam objetivos futuros. Minha prioridade atual é construir uma base forte em programação, banco de dados, back-end e Engenharia de Software antes de avançar para especializações.
 
 ---
 
-## 📚 Em desenvolvimento
+## 📚 Próximos passos
 
-Atualmente estou trabalhando para:
+Atualmente, estou trabalhando para:
 
 * aprofundar meus conhecimentos em Python;
+* melhorar minha lógica de programação;
+* evoluir em SQL e modelagem de banco de dados;
 * desenvolver novos projetos back-end;
-* melhorar minhas habilidades em SQL;
 * estudar arquitetura e organização de aplicações;
-* ampliar meus conhecimentos em testes automatizados;
-* expandir meu portfólio técnico;
-* criar repositórios específicos para cursos e projetos da DIO;
-* adicionar novos certificados e formações ao portfólio;
+* ampliar o uso de testes automatizados;
+* melhorar a documentação dos meus projetos;
+* manter meu GitHub e meu portfólio atualizados;
 * conquistar minha primeira oportunidade profissional em TI.
 
 ---
 
 ## 🧭 Objetivos profissionais
 
-1. Ingressar profissionalmente na área de Tecnologia da Informação.
-2. Consolidar experiência em desenvolvimento back-end e Engenharia de Software.
-3. Evoluir para Cloud, Machine Learning e Inteligência Artificial.
-4. Construir uma carreira internacional em tecnologia.
+1. Entrar profissionalmente na área de Tecnologia da Informação.
+2. Construir experiência prática em desenvolvimento de software.
+3. Consolidar minha base em back-end, banco de dados e Engenharia de Software.
+4. Aprofundar meus conhecimentos em Cloud, Inteligência Artificial e Machine Learning.
+5. Construir uma carreira internacional em tecnologia.
 
 ---
 
-## 📬 Contato profissional
+## 📬 Contato
 
-* Portfólio: https://portfolio-dev-lfs.vercel.app/
-* GitHub: https://github.com/DEV-LFS
-* LinkedIn: https://www.linkedin.com/in/luis-felipe-sebastiao/
-* Instagram profissional: https://www.instagram.com/lf.devweb/
-* E-mail profissional: [luisfelipesebastiao161@gmail.com](mailto:luisfelipesebastiao161@gmail.com?subject=Contato%20para%20projetos%20ou%20colabora%C3%A7%C3%B5es&body=Ol%C3%A1%2C%20tudo%20bem%3F%0A%0AGostaria%20de%20entrar%20em%20contato%20com%20voc%C3%AA%20para%20discutir%20poss%C3%ADveis%20projetos%20ou%20colabora%C3%A7%C3%B5es.)
+* **Portfólio:** [portfolio-dev-lfs.vercel.app](https://portfolio-dev-lfs.vercel.app/)
+* **GitHub:** [github.com/DEV-LFS](https://github.com/DEV-LFS)
+* **LinkedIn:** [linkedin.com/in/luis-felipe-sebastiao](https://www.linkedin.com/in/luis-felipe-sebastiao/)
+* **Instagram profissional:** [@lf.devweb](https://www.instagram.com/lf.devweb/)
+* **E-mail:** [luisfelipesebastiao161@gmail.com](mailto:luisfelipesebastiao161@gmail.com)
 
 ---
 
-## 💡 Princípio profissional
+## 💡 Como penso sobre minha evolução
 
-> Aprender tecnologia não é apenas compreender conceitos. É transformar conhecimento em sistemas funcionais, verificáveis e capazes de resolver problemas reais.
+> Prefiro mostrar o que consigo construir do que apenas listar o que estou estudando. Cada projeto é uma forma de aplicar conhecimento, identificar o que ainda preciso melhorar e evoluir de maneira consistente.
 
 ---
 
 <div align="center">
 
-### Construindo competência técnica, um projeto por vez.
+### Construindo minha carreira em tecnologia, um projeto por vez.
 
 <br>
 
 [![Portfólio](https://img.shields.io/static/v1?message=Portfólio\&logo=vercel\&label=\&color=000000\&logoColor=white\&style=for-the-badge)](https://portfolio-dev-lfs.vercel.app/)
+[![GitHub](https://img.shields.io/static/v1?message=GitHub\&logo=github\&label=\&color=181717\&logoColor=white\&style=for-the-badge)](https://github.com/DEV-LFS)
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn\&logo=linkedin\&label=\&color=0A66C2\&logoColor=white\&style=for-the-badge)](https://www.linkedin.com/in/luis-felipe-sebastiao/)
-[![Instagram](https://img.shields.io/static/v1?message=Instagram\&logo=instagram\&label=\&color=E4405F\&logoColor=white\&style=for-the-badge)](https://www.instagram.com/lf.devweb/)
-[![E-mail](https://img.shields.io/static/v1?message=E-mail\&logo=gmail\&label=\&color=D14836\&logoColor=white\&style=for-the-badge)](mailto:luisfelipesebastiao161@gmail.com?subject=Contato%20para%20projetos%20ou%20colabora%C3%A7%C3%B5es&body=Ol%C3%A1%2C%20tudo%20bem%3F%0A%0AGostaria%20de%20entrar%20em%20contato%20com%20voc%C3%AA%20para%20discutir%20poss%C3%ADveis%20projetos%20ou%20colabora%C3%A7%C3%B5es.)
 
 <br>
 <br>
